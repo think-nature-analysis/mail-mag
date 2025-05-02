@@ -1,0 +1,14 @@
+site_name: TN MAIL MAG
+theme:
+  name: material
+  palette:
+    primary: green
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+nav:
+  - ホーム: index.md
+  - メルマガ:
+    - 久米島でジュゴンが確認！: 202505_001_dugong.md
